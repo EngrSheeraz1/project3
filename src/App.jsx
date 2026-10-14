@@ -1,12 +1,14 @@
 // import SimpleForm from "./SimpleForm";
-import MutliInputForm from "./MultiInputForm";
+// import MutliInputForm from "./MultiInputForm";
+import AdvanceForm from "./AdvancedForm";
 import "./App.css";
 
 function App() {
   return (
     <>
       {/* <SimpleForm /> */}
-      <MutliInputForm />
+      {/* <MutliInputForm /> */}
+      <AdvanceForm />
     </>
   );
 }
