@@ -1,6 +1,7 @@
 // import SimpleForm from "./SimpleForm";
 // import MutliInputForm from "./MultiInputForm";
-import AdvanceForm from "./AdvancedForm";
+// import AdvanceForm from "./AdvancedForm";
+import UncontrolledForm from "./UncontrolledForm";
 import "./App.css";
 
 function App() {
@@ -8,7 +9,8 @@ function App() {
     <>
       {/* <SimpleForm /> */}
       {/* <MutliInputForm /> */}
-      <AdvanceForm />
+      {/* <AdvanceForm /> */}
+      <UncontrolledForm />
     </>
   );
 }
